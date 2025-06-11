@@ -1,0 +1,8 @@
+.env
+
+/bin/
+/obj/
+
+.project.lock.json
+project.assets.json
+project.nuget.cache
